@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>📈 BarberBot Logger Dashboard</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #ddd;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #222;
+    }
+    tr:nth-child(even) {
+      background-color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+  <h1>📊 BarberBot Logger Dashboard</h1>
+  <p>This is your live price log, updated via GitHub Actions from Railway.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Ticker</th>
+        <th>Price</th>
+        <th>Volume</th>
+        <th>% Change</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- The log data rows will be inserted here automatically by the logger -->
+    </tbody>
+  </table>
+</body>
+</html>
