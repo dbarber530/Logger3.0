@@ -7,7 +7,7 @@ import os
 import subprocess
 
 tickers = [
-    'CALM', 'CRVW', 'NVTS', 'USVM', 'AAPL', 'RXRX', 'SLNO', 'NMMD', 'SNTI', 'QQQ',
+    'CALM', 'CRWV', 'NVTS', 'USVM', 'AAPL', 'RXRX', 'SLNO', 'NMMD', 'SNTI', 'QQQ',
     'META', 'BABA', 'PLTR', 'AMD', 'GOOGL', 'COIN', 'F', 'T', 'CVX', 'XOM', 'NVDA'
 ]
 
