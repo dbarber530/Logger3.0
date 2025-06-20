@@ -14,7 +14,6 @@ tickers = [
     'META', 'BABA', 'PLTR', 'AMD', 'GOOG',
     'COIN', 'F', 'T', 'CVX', 'XOM'
 ]
-]
 
 log_file = os.getenv("CSV_FILEPATH", "data/log.csv")
 log_interval = 60  # seconds
