@@ -4194,3 +4194,153 @@ AMZN    209.83
 Name: 2025-06-20 16:52:00+00:00, dtype: float64",0,"Ticker
 AMZN    0.0
 Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,CALM,"Ticker
+CALM    103.1
+Name: 2025-06-20 16:52:00+00:00, dtype: float64",0,"Ticker
+CALM    0.0
+Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,CRWV,"Ticker
+CRWV    184.07
+Name: 2025-06-20 16:52:00+00:00, dtype: float64",15777,"Ticker
+CRWV    0.21
+Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,NVTS,"Ticker
+NVTS    6.94
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+NVTS    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,USVM,"Ticker
+USVM    82.16
+Name: 2025-06-20 16:48:00+00:00, dtype: float64",0,"Ticker
+USVM    0.0
+Name: 2025-06-20 16:48:00+00:00, dtype: float64"
+2025-06-20 16:53:06,AAPL,"Ticker
+AAPL    198.57
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+AAPL    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,RXRX,"Ticker
+RXRX    4.95
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+RXRX    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,SLNO,"Ticker
+SLNO    79.7
+Name: 2025-06-20 16:52:00+00:00, dtype: float64",0,"Ticker
+SLNO    0.0
+Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,MNMD,"Ticker
+MNMD    6.98
+Name: 2025-06-20 16:52:00+00:00, dtype: float64",0,"Ticker
+MNMD    0.0
+Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,SNTI,"Ticker
+SNTI    2.17
+Name: 2025-06-20 16:52:00+00:00, dtype: float64",0,"Ticker
+SNTI    0.0
+Name: 2025-06-20 16:52:00+00:00, dtype: float64"
+2025-06-20 16:53:06,QQQ,"Ticker
+QQQ    527.62
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+QQQ    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,META,"Ticker
+META    689.51
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+META    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,BABA,"Ticker
+BABA    113.25
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+BABA    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,PLTR,"Ticker
+PLTR    138.89
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+PLTR    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,AMD,"Ticker
+AMD    129.12
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+AMD    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,GOOGL,"Ticker
+GOOGL    168.98
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+GOOGL    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,COIN,"Ticker
+COIN    309.63
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+COIN    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,F,"Ticker
+F    10.52
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+F    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,T,"Ticker
+T    27.94
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+T    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,CVX,"Ticker
+CVX    148.55
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+CVX    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,XOM,"Ticker
+XOM    114.18
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+XOM    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,NVO,"Ticker
+NVO    73.57
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+NVO    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,LLY,"Ticker
+LLY    762.73
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+LLY    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,SPY,"Ticker
+SPY    595.19
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+SPY    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,VTI,"Ticker
+VTI    293.89
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+VTI    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,IWM,"Ticker
+IWM    209.3
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+IWM    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,SOFI,"Ticker
+SOFI    15.2
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+SOFI    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,TSLA,"Ticker
+TSLA    325.18
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+TSLA    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,NVDA,"Ticker
+NVDA    144.03
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+NVDA    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,MSFT,"Ticker
+MSFT    480.19
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+MSFT    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
+2025-06-20 16:53:06,AMZN,"Ticker
+AMZN    209.92
+Name: 2025-06-20 16:53:00+00:00, dtype: float64",0,"Ticker
+AMZN    0.0
+Name: 2025-06-20 16:53:00+00:00, dtype: float64"
