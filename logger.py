@@ -9,10 +9,11 @@ import base64
 import json
 
 tickers = [
-    'CALM', 'CRVW', 'NVTS', 'USVM', 'AAPL',
-    'RXRX', 'SLNO', 'NMMD', 'SNTI', 'QQQ',
+    'CALM', 'CRWV', 'NVTS', 'USVM', 'AAPL',
+    'RXRX', 'SLNO', 'MNMD', 'SNTI', 'QQQ',
     'META', 'BABA', 'PLTR', 'AMD', 'GOOG',
     'COIN', 'F', 'T', 'CVX', 'XOM'
+]
 ]
 
 log_file = os.getenv("CSV_FILEPATH", "data/log.csv")
